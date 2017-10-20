@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5610170-da56-48e3-bf28-dca37bfb2818" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rebound.py" afterPath="$PROJECT_DIR$/rebound.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,9 +18,19 @@
         <entry file="file://$PROJECT_DIR$/rebound.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="999">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+                <marker date="1508520111124" expanded="true" signature="426:524" ph="..." />
+                <marker date="1508520111124" expanded="true" signature="573:643" ph="..." />
+                <marker date="1508520111124" expanded="true" signature="722:988" ph="..." />
+                <marker date="1508520111124" expanded="true" signature="854:942" ph="..." />
+                <marker date="1508520111124" expanded="true" signature="1022:1217" ph="..." />
+                <marker date="1508520111124" expanded="true" signature="1297:1625" ph="..." />
+                <marker date="1508520111124" expanded="true" signature="1371:1625" ph="..." />
+                <marker date="1508520111124" expanded="true" signature="1384:1573" ph="..." />
+                <marker date="1508520111124" expanded="true" signature="1627:1961" ph="'''...'''" />
+                <marker date="1508520111124" expanded="true" signature="2020:2246" ph="..." />
               </folding>
             </state>
           </provider>
@@ -40,9 +49,11 @@
       <file leaf-file-name="todo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="-405">
+              <caret line="32" column="10" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,8 +74,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/rebound.py" />
-        <option value="$PROJECT_DIR$/todo.py" />
         <option value="$PROJECT_DIR$/DatabaseWork.py" />
+        <option value="$PROJECT_DIR$/todo.py" />
       </list>
     </option>
   </component>
@@ -259,7 +270,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33024693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33024693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -289,6 +300,16 @@
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+            <marker date="1508520111124" expanded="true" signature="426:524" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="573:643" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="722:988" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="854:942" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="1022:1217" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="1297:1625" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="1371:1625" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="1384:1573" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="1627:1961" ph="'''...'''" />
+            <marker date="1508520111124" expanded="true" signature="2020:2246" ph="..." />
           </folding>
         </state>
       </provider>
@@ -305,7 +326,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
           <caret line="50" column="27" lean-forward="false" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-          <folding />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -320,9 +343,19 @@
     <entry file="file://$PROJECT_DIR$/rebound.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="999">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+            <marker date="1508520111124" expanded="true" signature="426:524" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="573:643" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="722:988" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="854:942" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="1022:1217" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="1297:1625" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="1371:1625" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="1384:1573" ph="..." />
+            <marker date="1508520111124" expanded="true" signature="1627:1961" ph="'''...'''" />
+            <marker date="1508520111124" expanded="true" signature="2020:2246" ph="..." />
           </folding>
         </state>
       </provider>
@@ -337,9 +370,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="-405">
+          <caret line="32" column="10" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

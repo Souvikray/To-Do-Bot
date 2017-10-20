@@ -3,8 +3,14 @@ import json
 import time
 import urllib
 
+<<<<<<< HEAD
 # token provided by Telegram
 TOKEN = "47*******:***********************************"
+||||||| merged common ancestors
+TOKEN = "476123737:AAHXWJ_R4Igjt6BXJ585XJ8xSVGOnB0FH1c"
+=======
+TOKEN = "47*******:***********************************"
+>>>>>>> a0eb4add921c3c5fe06bc74e47be9ba327044fb9
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 def get_url(url):
