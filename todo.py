@@ -7,7 +7,7 @@ from DatabaseWork import BotDB
 #instantiate the BotDB class to use its methods
 db = BotDB()
 # token provided by Telegram
-TOKEN = "476123737:AAHXWJ_R4Igjt6BXJ585XJ8xSVGOnB0FH1c"
+TOKEN = "47*******:***********************************"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 # get response from URL
